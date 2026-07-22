@@ -6,6 +6,7 @@
   Frontend-rooted, full-stack Software Developer specializing in <b>React, Next.js, Angular, and Node.js</b>, with growing expertise in <b>AI-powered development, LLM integration, and Agentic AI systems</b>. I build fast, scalable Single Page Applications and AI-driven tools that solve real business problems — from social media management dashboards to HIPAA-compliant healthcare platforms and cloud automation systems.
 </p>
 
+
 <p align="center">
   Currently leading development at <b>SocialPie</b>, where I design and ship AI code intelligence platforms, real-time speech analysis systems, and automation tools for the TikTok Marketing API. I actively work with <b>Claude, ChatGPT, and OpenAI Codex</b> to accelerate development, build RAG pipelines, and design autonomous <b>Agentic AI</b> workflows — including custom agent skills for campaign automation and code intelligence.
 </p>
