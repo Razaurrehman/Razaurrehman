@@ -116,6 +116,19 @@
 
 `Mantine.js` `ECharts.js` `Microsoft Visio` `React` `TypeScript`
 
+<br>
+
+**[Uptime Monitor](https://github.com/Razaurrehman/uptime-monitor)** — Self-hosted uptime & health monitoring service
+> Tracks endpoint availability and response times, with configurable check intervals and alerting when a service goes down or degrades.
+
+- ⏱️ **Scheduled health checks** against HTTP/HTTPS endpoints with per-monitor intervals and timeout thresholds
+- 🚨 **Alerting** on downtime and recovery  ← confirm channels (email / webhook / Slack / Telegram)
+- 📈 **Status history & uptime %** with response-time trends per monitor
+- 🗄️ **Persistence layer** for check results  ← confirm DB (PostgreSQL / SQLite / Mongo)
+- 🐳 **Self-hosted** — runs via Docker Compose, no third-party service required  ← remove if not containerised yet
+- 🚧 Actively evolving — public status page and multi-region checks planned
+
+`Next.js` `TypeScript` `PostgreSQL` `Docker`  ← swap for your actual stack
 ---
 
 ### 🛠️ Languages and Tools
