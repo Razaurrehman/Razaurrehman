@@ -128,7 +128,8 @@
 - 🐳 **Self-hosted** — runs via Docker Compose, no third-party service required  ← remove if not containerised yet
 - 🚧 Actively evolving — public status page and multi-region checks planned
 
-`Next.js` `TypeScript` `PostgreSQL` `Docker`  ← swap for your actual stack
+`Next.js` `TypeScript` `PostgreSQL` `Docker`  `swap for your actual stack`
+
 ---
 
 ### 🛠️ Languages and Tools
