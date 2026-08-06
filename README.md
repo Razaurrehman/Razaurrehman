@@ -105,7 +105,7 @@
 
 <br>
 
-**FinOps and Cloud Cost Optimization Tool**
+**[FinOps and Cloud Cost Optimization Tool]**
 > Worked on a complete UI overhaul for an enterprise cloud governance and infrastructure visualization platform, used to map and monitor cloud resources across AWS, Azure, and GCP.
 
 - 🎨 **Complete UI modernization** — migrated legacy interface components to **Mantine.js** for a cleaner, more consistent design system
