@@ -105,19 +105,6 @@
 
 <br>
 
-**[FinOps and Cloud Cost Optimization Tool]**
-> Worked on a complete UI overhaul for an enterprise cloud governance and infrastructure visualization platform, used to map and monitor cloud resources across AWS, Azure, and GCP.
-
-- 🎨 **Complete UI modernization** — migrated legacy interface components to **Mantine.js** for a cleaner, more consistent design system
-- 📊 **Data visualization** — built interactive charts and dashboards with **ECharts.js** for real-time infrastructure insights
-- 🗺️ **Diagramming integration** — worked with **Microsoft Visio**–style network/architecture diagram rendering for infrastructure topology views
-- ☁️ Focused on making dense, data-heavy cloud infrastructure views fast, intuitive, and enterprise-ready
-- 💰 Built a new **Cost Center** feature from scratch — enabling teams to track, allocate, and analyze cloud spend by department/project
-
-`Mantine.js` `ECharts.js` `Microsoft Visio` `React` `TypeScript`
-
-<br>
-
 **[Uptime Monitor](https://github.com/Razaurrehman/uptime-monitor)** — Self-hosted uptime & health monitoring service
 > Tracks endpoint availability and response times, with configurable check intervals and alerting when a service goes down or degrades.
 
@@ -129,6 +116,19 @@
 - 🚧 Actively evolving — public status page and multi-region checks planned
 
 `Next.js` `TypeScript` `PostgreSQL` `Docker`  `swap for your actual stack`
+
+<br>
+
+**FinOps and Cloud Cost Optimization Tool**
+> Worked on a complete UI overhaul for an enterprise cloud governance and infrastructure visualization platform, used to map and monitor cloud resources across AWS, Azure, and GCP.
+
+- 🎨 **Complete UI modernization** — migrated legacy interface components to **Mantine.js** for a cleaner, more consistent design system
+- 📊 **Data visualization** — built interactive charts and dashboards with **ECharts.js** for real-time infrastructure insights
+- 🗺️ **Diagramming integration** — worked with **Microsoft Visio**–style network/architecture diagram rendering for infrastructure topology views
+- ☁️ Focused on making dense, data-heavy cloud infrastructure views fast, intuitive, and enterprise-ready
+- 💰 Built a new **Cost Center** feature from scratch — enabling teams to track, allocate, and analyze cloud spend by department/project
+
+`Mantine.js` `ECharts.js` `Microsoft Visio` `React` `TypeScript`
 
 ---
 
