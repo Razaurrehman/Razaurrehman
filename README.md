@@ -65,6 +65,7 @@
 
 `Python` `FastAPI` `LangGraph` `React` `PostgreSQL` `Redis` `ChromaDB` `Docker`
 
+
 **[Retriva](https://github.com/Razaurrehman/retriva)** — Self-hosted RAG chatbot agent you can train on your own documents
 > Upload PDFs, Word docs, CSVs, or plain text; ask questions; get structured JSON answers with real citations back to the source chunk and page. Ships with agentic tool calling so the LLM can hit your live APIs, not just your documents.
 
