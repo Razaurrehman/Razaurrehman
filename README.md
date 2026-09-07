@@ -65,6 +65,19 @@
 
 `Python` `FastAPI` `LangGraph` `React` `PostgreSQL` `Redis` `ChromaDB` `Docker`
 
+**[Retriva](https://github.com/Razaurrehman/retriva)** — Self-hosted RAG chatbot agent you can train on your own documents
+> Upload PDFs, Word docs, CSVs, or plain text; ask questions; get structured JSON answers with real citations back to the source chunk and page. Ships with agentic tool calling so the LLM can hit your live APIs, not just your documents.
+
+- 🤖 **Retrieval as a tool, not a fixed pipeline** — Claude decides when to search the knowledge base and can re-query with a refined term, instead of every message paying a retrieval cost
+- 🔌 **Pluggable tool registry** — register a JSON-Schema + handler pair and the agent loop picks it up untouched; ships with a working order-status example to wire in a real CRM, OMS, or ticketing API
+- 💬 **Multi-turn conversation memory** with sliding-window history and cached summarization of older turns, not a stateless Q&A box
+- 📄 **Ingestion pipeline** — parse → chunk → embed → upsert, with per-page citation metadata and clean delete/re-upload semantics (no orphaned vectors, no duplicate chunks)
+- 🧩 **Stable response envelope** — `answer`, `sources[]`, and `tool_calls[]` always present, built for embedding into e-commerce, CRM, or support apps
+- 🖥️ **Server-rendered admin UI** (Jinja2) for uploads, chunk inspection, tool introspection, and a chat tester — no separate frontend build
+- 🔒 **Fully self-hosted** — your documents and conversations never leave your own infrastructure
+
+`Python` `FastAPI` `Claude API` `Voyage AI` `Qdrant` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
+
 <br>
 
 **[LocalDoc](https://github.com/Razaurrehman/LocalDoc)** — Privacy-first desktop file converter
